@@ -1,4 +1,4 @@
-# Local Lead Finder
+# SiteScout
 
 Finds local businesses that have a **phone number but no website**, using free
 OpenStreetMap data. Built for web design agencies and freelancers who want a
